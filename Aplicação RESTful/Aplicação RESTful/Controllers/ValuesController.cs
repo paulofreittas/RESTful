@@ -7,7 +7,6 @@ using System.Web.Http;
 
 namespace Aplicação_RESTful.Controllers
 {
-    [Authorize]
     public class ValuesController : ApiController
     {
         // GET api/values
