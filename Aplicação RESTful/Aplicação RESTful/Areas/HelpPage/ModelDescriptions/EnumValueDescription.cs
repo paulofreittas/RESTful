@@ -1,4 +1,4 @@
-namespace Aplicação_RESTful.Areas.HelpPage.ModelDescriptions
+﻿namespace Aplicacao_RESTful.Areas.HelpPage.ModelDescriptions
 {
     public class EnumValueDescription
     {

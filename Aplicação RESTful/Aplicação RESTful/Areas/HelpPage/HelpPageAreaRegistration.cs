@@ -1,7 +1,8 @@
-using System.Web.Http;
+﻿using System.Web.Http;
 using System.Web.Mvc;
+using Aplicacao_RESTful.Areas.HelpPage.App_Start;
 
-namespace Aplicação_RESTful.Areas.HelpPage
+namespace Aplicacao_RESTful.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

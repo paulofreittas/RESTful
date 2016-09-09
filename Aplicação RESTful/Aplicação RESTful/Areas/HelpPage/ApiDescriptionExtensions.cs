@@ -1,9 +1,9 @@
-using System;
+﻿using System;
 using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace Aplicação_RESTful.Areas.HelpPage
+namespace Aplicacao_RESTful.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

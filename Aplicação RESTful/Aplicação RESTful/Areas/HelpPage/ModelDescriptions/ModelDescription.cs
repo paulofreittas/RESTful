@@ -1,6 +1,6 @@
-using System;
+﻿using System;
 
-namespace Aplicação_RESTful.Areas.HelpPage.ModelDescriptions
+namespace Aplicacao_RESTful.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

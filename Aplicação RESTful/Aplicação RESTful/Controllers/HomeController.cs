@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Aplicação_RESTful.Controllers
+namespace Aplicacao_RESTful.Controllers
 {
     public class HomeController : Controller
     {

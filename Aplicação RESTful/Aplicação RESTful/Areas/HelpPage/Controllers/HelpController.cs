@@ -1,10 +1,10 @@
-using System;
+﻿using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using Aplicação_RESTful.Areas.HelpPage.ModelDescriptions;
-using Aplicação_RESTful.Areas.HelpPage.Models;
+using Aplicacao_RESTful.Areas.HelpPage.ModelDescriptions;
+using Aplicacao_RESTful.Areas.HelpPage.Models;
 
-namespace Aplicação_RESTful.Areas.HelpPage.Controllers
+namespace Aplicacao_RESTful.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

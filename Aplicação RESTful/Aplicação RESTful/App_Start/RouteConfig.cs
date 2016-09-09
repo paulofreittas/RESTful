@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace Aplicação_RESTful
+namespace Aplicacao_RESTful
 {
     public class RouteConfig
     {

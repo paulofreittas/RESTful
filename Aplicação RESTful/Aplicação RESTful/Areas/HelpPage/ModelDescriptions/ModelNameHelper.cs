@@ -1,9 +1,9 @@
-using System;
+﻿using System;
 using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace Aplicação_RESTful.Areas.HelpPage.ModelDescriptions
+namespace Aplicacao_RESTful.Areas.HelpPage.ModelDescriptions
 {
     internal static class ModelNameHelper
     {

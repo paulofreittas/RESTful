@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace Aplicação_RESTful
+namespace Aplicacao_RESTful
 {
     public class BundleConfig
     {

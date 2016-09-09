@@ -1,13 +1,13 @@
-using System;
+﻿using System;
 using System.Globalization;
 using System.Linq;
 using System.Reflection;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
 using System.Xml.XPath;
-using Aplicação_RESTful.Areas.HelpPage.ModelDescriptions;
+using Aplicacao_RESTful.Areas.HelpPage.ModelDescriptions;
 
-namespace Aplicação_RESTful.Areas.HelpPage
+namespace Aplicacao_RESTful.Areas.HelpPage
 {
     /// <summary>
     /// A custom <see cref="IDocumentationProvider"/> that reads the API documentation from an XML documentation file.

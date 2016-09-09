@@ -1,22 +1,17 @@
-// Uncomment the following to provide samples for PageResult<T>. Must also add the Microsoft.AspNet.WebApi.OData
+﻿// Uncomment the following to provide samples for PageResult<T>. Must also add the Microsoft.AspNet.WebApi.OData
 // package to your project.
 ////#define Handle_PageResultOfT
 
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Diagnostics;
 using System.Diagnostics.CodeAnalysis;
-using System.Linq;
 using System.Net.Http.Headers;
-using System.Reflection;
-using System.Web;
 using System.Web.Http;
+using Aplicacao_RESTful.Areas.HelpPage.SampleGeneration;
+
 #if Handle_PageResultOfT
 using System.Web.Http.OData;
 #endif
 
-namespace Aplicação_RESTful.Areas.HelpPage
+namespace Aplicacao_RESTful.Areas.HelpPage.App_Start
 {
     /// <summary>
     /// Use this class to customize the Help Page.

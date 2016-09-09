@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
@@ -11,10 +11,11 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using Aplicação_RESTful.Areas.HelpPage.ModelDescriptions;
-using Aplicação_RESTful.Areas.HelpPage.Models;
+using Aplicacao_RESTful.Areas.HelpPage.ModelDescriptions;
+using Aplicacao_RESTful.Areas.HelpPage.Models;
+using Aplicacao_RESTful.Areas.HelpPage.SampleGeneration;
 
-namespace Aplicação_RESTful.Areas.HelpPage
+namespace Aplicacao_RESTful.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

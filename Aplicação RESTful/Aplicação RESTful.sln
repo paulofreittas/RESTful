@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicação RESTful", "Aplicação RESTful\Aplicação RESTful.csproj", "{8B0D9C31-1C06-49E5-989D-E44883D13CE1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacao RESTful", "Aplicação RESTful\Aplicacao RESTful.csproj", "{8B0D9C31-1C06-49E5-989D-E44883D13CE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

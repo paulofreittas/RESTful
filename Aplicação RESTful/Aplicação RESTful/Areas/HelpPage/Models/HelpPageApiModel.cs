@@ -1,10 +1,10 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Net.Http.Headers;
 using System.Web.Http.Description;
-using Aplicação_RESTful.Areas.HelpPage.ModelDescriptions;
+using Aplicacao_RESTful.Areas.HelpPage.ModelDescriptions;
 
-namespace Aplicação_RESTful.Areas.HelpPage.Models
+namespace Aplicacao_RESTful.Areas.HelpPage.Models
 {
     /// <summary>
     /// The model that represents an API displayed on the help page.
